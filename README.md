@@ -1,3 +1,5 @@
+![github-header-image](https://github.com/rpradeepsurya/rpradeepsurya/assets/18418891/09d23c99-afa8-4544-a2ba-ff5bada9cf55)
+
 <h1 align="center">Hi 👋, I'm Pradeepsurya Rajendran</h1>
 <h3 align="center">Recent MS CSE graduate 🎓 with a frontend experience in Angular ✨. Seeking my next full-time adventure!</h3>
 
