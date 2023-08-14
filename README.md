@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pradeepsurya Rajendran</h1>
-<h3 align="center">Recent MS CSE graduate 🎓 with a passion for frontend magic in Angular ✨. Seeking my next full-time adventure!</h3>
+<h3 align="center">Recent MS CSE graduate 🎓 with a frontend experience in Angular ✨. Seeking my next full-time adventure!</h3>
 
 - 🔭 I’m currently working on **a series of Angular side projects to hone my skills.**
 
