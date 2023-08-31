@@ -1,4 +1,6 @@
-![github-header-image](https://github.com/rpradeepsurya/rpradeepsurya/assets/18418891/04ec6e31-91c9-4288-8f25-423c70b446fa)
+<!--- ![github-header-image](https://github.com/rpradeepsurya/rpradeepsurya/assets/18418891/04ec6e31-91c9-4288-8f25-423c70b446fa) --->
+![github-header-image (1)](https://github.com/rpradeepsurya/rpradeepsurya/assets/18418891/3a5fb95c-308c-4c04-b4d6-79530593de2a)
+
 
 <h1 align="center">Hi 👋, I'm Pradeepsurya Rajendran</h1>
 <h3 align="center">Recent MS CSE graduate 🎓 with professional experience in software development 👨‍💻. Seeking my next full-time adventure!</h3>
