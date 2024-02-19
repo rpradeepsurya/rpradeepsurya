@@ -5,6 +5,8 @@
 <h1 align="center">Hi 👋, I'm Pradeepsurya Rajendran</h1>
 <h3 align="center">Recent MS CSE graduate 🎓 with professional experience in software development 👨‍💻. Seeking my next full-time adventure!</h3>
 
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
+
 - 🔭 I’m currently working on **a series of Angular side projects to hone my skills.**
 
 - 🌱 I’m currently learning **DevOps**
